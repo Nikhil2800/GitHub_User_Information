@@ -3,7 +3,7 @@ Description:
 The provided React component allows users to input a GitHub username. Upon submission, it fetches the public information of the GitHub user from the GitHub API and displays it in a card format. The displayed information includes the user's avatar image, username, name, number of public repositories, number of public gists, and profile creation date.
 I have deploy this project on Netlify and i have mentioned below link to view my project.
 
-Netlify Link : github-users-inf.netlify.app 
+Netlify Link : https://github-users-inf.netlify.app
 
 Features:
 
